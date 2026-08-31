@@ -1,0 +1,5 @@
+livekit-agents==1.7.0
+livekit-plugins-sarvam==1.7.0
+livekit-plugins-google==1.7.0
+python-dotenv>=1.0,<2
+websockets>=15.0,<16
